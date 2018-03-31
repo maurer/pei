@@ -1,0 +1,6 @@
+[package]
+name = "pei"
+version = "0.1.0"
+authors = ["Matthew Maurer <matthew.r.maurer@gmail.com>"]
+
+[dependencies]
